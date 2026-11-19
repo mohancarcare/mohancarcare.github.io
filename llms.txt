@@ -71,6 +71,6 @@ Hatchbacks, sedans and SUVs of all major brands in India, including:
 
 ## Links
 
-- Website: https://baranitharan2020.github.io/mohancarcare/
+- Website: https://mohancarcare.github.io/
 - Google Maps: https://www.google.com/maps/search/?api=1&query=Mohan+Car+Care+and+Workshop+Nanjikottai+Thanjavur
 - WhatsApp: https://wa.me/919443175813
